@@ -1,0 +1,75 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Testes da API REST",
+    "dateExported": "2024-03-05T00:44:18.741Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "d3f1f3ca-c112-4266-902e-c4a39f8ff5da",
+            "colId": "71d177ea-d96d-4d2c-805d-f46abeba4c76",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-03-05T00:41:19.519Z",
+            "modified": "2024-03-05T00:41:19.519Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "c7e966d2-83f0-4c90-b599-ff748df83b37",
+            "colId": "71d177ea-d96d-4d2c-805d-f46abeba4c76",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "PUT",
+            "sortNum": 20000,
+            "created": "2024-03-05T00:41:40.254Z",
+            "modified": "2024-03-05T00:41:40.254Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "\"title\": \"iPhone 9\",\n\n\"price\": 549,\n    \"description\": \"An apple mobile which is nothing like apple\",\n\n",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "ad909335-bbab-41ce-b47f-50eb6ef19ab5",
+            "colId": "71d177ea-d96d-4d2c-805d-f46abeba4c76",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/1",
+            "url": "https://dummyjson.com/products/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-03-05T00:41:52.303Z",
+            "modified": "2024-03-05T00:41:52.303Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "960ce169-178d-4b28-b83c-bf39cabb8722",
+            "colId": "71d177ea-d96d-4d2c-805d-f46abeba4c76",
+            "containerId": "",
+            "name": "https://dummyjson.com/products/101",
+            "url": "https://dummyjson.com/products/101",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-03-05T00:44:05.365Z",
+            "modified": "2024-03-05T00:44:05.365Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
